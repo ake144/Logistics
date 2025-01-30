@@ -56,7 +56,7 @@ export function PricingSection() {
             Choose the plan that <span className="text-gray-400">fits you best</span>
           </h2>
           <p className="text-gray-400 mt-4 max-w-2xl mx-auto">
-            Get started for free and upgrade once you feel like it. There's a plan for everyone, from individual users
+            Get started for free and upgrade once you feel like it. There&apos;s a plan for everyone, from individual users
             to large teams.
           </p>
         </div>

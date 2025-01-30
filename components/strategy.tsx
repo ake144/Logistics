@@ -1,6 +1,5 @@
 "use client"
 
-import { motion } from "framer-motion"
 import { Timeline } from "./ui/timeline"
 
 export function Strategy() {
