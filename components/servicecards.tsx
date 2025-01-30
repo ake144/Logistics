@@ -8,7 +8,7 @@ export function Services() {
   return (
     <>
 
-<div className="flex my-12 flex-col items-center justify-start px-32 mt-20 pt-22  mb-4">
+<div className="flex my-12 mb-22 flex-col items-center justify-start px-32 mt-20 pb-22 pt-22 ">
   <h2 className="text-3xl md:text-9xl font-bold mb-4">
     Our <span className="text-purple-500">Services</span>
   </h2>

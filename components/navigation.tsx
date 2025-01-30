@@ -15,7 +15,7 @@ export function Navigation() {
     <motion.nav initial={{ y: -100 }} animate={{ y: 0 }} className="relative z-20 border-b border-white/10">
       <div className="  backdrop-blur-sm">
         <div className="container mx-auto px-4">
-          <div className="flex items-center justify-between h-16">
+          <div className="flex items-center justify-between h-20">
             {/* Logo */}
             <Link href="/" className="text-xl font-bold">
               Streamline Logistics

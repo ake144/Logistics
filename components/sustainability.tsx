@@ -11,7 +11,7 @@ export function Sustainability() {
         className="container mx-auto px-4 relative z-10"
       >
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">
+          <h2 className="text-4xl md:text-7xl font-bold mb-6">
             Streamline Logistics aims to achieve <span className="bg-cyan-500/20 px-2">net-zero</span> emissions
             logistics by the year 2050
           </h2>

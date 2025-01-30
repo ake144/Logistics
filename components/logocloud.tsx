@@ -35,7 +35,7 @@ const companies = [
 
 export function Logos() {
   return (
-    <section id="logos">
+    <section id="logos" className="my-32 p-4">
       <div className="container mx-auto px-4 py-12 md:px-8">
         <h3 className="text-center text-sm font-semibold text-gray-500">
           TRUSTED BY LEADING TEAMS
